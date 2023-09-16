@@ -1,0 +1,5 @@
+name: KitMap
+version: ${project.version}
+author: CobelPvP Development Team
+main: com.cobelpvp.hcfactions.HCFactions
+depend: [Atheneum, ProtocolLib, Engine]
